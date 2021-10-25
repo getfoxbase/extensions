@@ -1,5 +1,5 @@
 {
-  "name": "foxbase-extensions",
+  "name": "@foxbase/extensions",
   "version": "1.0.0",
   "description": "A simple library to build arbitrary JS code into a single JS file, and execute it in NodeJS.",
   "main": "dist/index.js",
