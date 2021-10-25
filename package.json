@@ -1,6 +1,6 @@
 {
   "name": "@foxbase/extensions",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple library to build arbitrary JS code into a single JS file, and execute it in NodeJS.",
   "main": "dist/index.js",
   "repository": "git@github.com:getfoxbase/extensions.git",
